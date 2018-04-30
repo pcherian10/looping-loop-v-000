@@ -1,6 +1,7 @@
 def looping
   while (true)
-    puts "Wig"
+    puts "Wingardium Leviosa"
+  end
 end
 
-#call your method here
+looping
