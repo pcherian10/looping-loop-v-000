@@ -1,5 +1,6 @@
 def looping
-	#your code here
+  while (true)
+    puts "Wig"
 end
 
 #call your method here
